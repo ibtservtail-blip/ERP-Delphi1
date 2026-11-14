@@ -1,0 +1,30 @@
+﻿# Compilados e executaveis Delphi
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.drc
+*.tds
+*.sm
+
+# Diretorios de build
+Win32/
+Win64/
+Debug/
+Release/
+
+# Arquivos locais e historico
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.stat
+*.otares
+*.~*
+__history/
+__recovery/
+
+# Configuracoes privadas
+config/conexao.ini
